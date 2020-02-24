@@ -105,7 +105,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - Sebastian Thrun (Stanford University)
  * [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) - Charles Isbell, Michael Littman (Georgia Tech)
  * [(Convolutional) Neural Networks for Visual Recognition](https://cs231n.github.io/) - Fei-Fei Li, Andrej Karphaty, Justin Johnson (Stanford University)
- * [Machine Learning for Computer Vision](https://youtu.be/QZmZFeZxEKI?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl - Rudolph Triebel (TU Munich)
+ * [Machine Learning for Computer Vision](https://youtu.be/QZmZFeZxEKI?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl) - Rudolph Triebel (TU Munich)
 
 
 
@@ -215,6 +215,12 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 	* [Deep Learning Session 3](https://www.youtube.com/watch?v=_cohR7LAgWA) - Yoshua Bengio (University of Montreal)
 
 ## Software
+
+#### Annotation tools
+* [Comma Coloring](http://commacoloring.herokuapp.com/)
+* [Annotorious](https://annotorious.github.io/)
+* [LabelME](http://labelme.csail.mit.edu/Release3.0/)
+* [gtmaker](https://github.com/sanko-shoko/gtmaker)
 
 #### External Resource Links
  * [Computer Vision Resources](https://sites.google.com/site/jbhuang0604/resources/vision) - Jia-Bin Huang (UIUC)
@@ -655,6 +661,10 @@ Non-uniform Deblurring
  # [SUN RGB-D](http://rgbd.cs.princeton.edu/) - A RGB-D Scene Understanding Benchmark Suite
  # [NYU depth v2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) - Indoor Segmentation and Support Inference from RGBD Images
 
+#### Aerial images
+ # [Aerial Image Segmentation](https://zenodo.org/record/1154821#.WmN9kHWnHIp) - Learning Aerial Image Segmentation From Online Maps
+
+
 ## Resources for students
 
 #### Resource link collection
@@ -708,6 +718,7 @@ Non-uniform Deblurring
  * [Andrej Karpathy blog](http://karpathy.github.io/) - Andrej Karpathy
  * [AI Shack](http://aishack.in/) - Utkarsh Sinha
  * [Computer Vision Talks](http://computer-vision-talks.com/) - Eugene Khvedchenya
+ * [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) - Jason Chin (University of Western Ontario)
 
 
 ## Links
